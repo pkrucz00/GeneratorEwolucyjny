@@ -1,0 +1,12 @@
+pl\edu\agh\lab\pkruczkie\animal\Animal.class
+pl\edu\agh\lab\pkruczkie\maps\WorldMap.class
+pl\edu\agh\lab\pkruczkie\animal\IGenotype.class
+pl\edu\agh\lab\pkruczkie\animal\Orientation.class
+pl\edu\agh\lab\pkruczkie\maps\IWorldMap.class
+pl\edu\agh\lab\pkruczkie\animal\Genotype.class
+pl\edu\agh\lab\pkruczkie\elements\AbstractWorldElement.class
+pl\edu\agh\lab\pkruczkie\elements\Plant.class
+pl\edu\agh\lab\pkruczkie\widget\Main.class
+pl\edu\agh\lab\pkruczkie\position\Vector2d.class
+pl\edu\agh\lab\pkruczkie\animal\IAnimal.class
+pl\edu\agh\lab\pkruczkie\animal\Orientation$1.class

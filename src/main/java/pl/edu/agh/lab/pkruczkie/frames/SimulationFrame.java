@@ -35,6 +35,5 @@ public class SimulationFrame extends JFrame {
 
         this.setIconImage(icon);
         this.setTitle("Evolution game");
-        this.setResizable(true);    //zmien to za chwile
     }
 }
